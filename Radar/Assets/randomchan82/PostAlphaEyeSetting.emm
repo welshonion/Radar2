@@ -1,0 +1,19 @@
+[Info]
+Version = 3
+
+[Object]
+Acs1 = E:\3dModels\RandomChan\MMD\randomchan82\PostAlphaEye\PostAlphaEye.x
+Pmd2 = E:\3dModels\RandomChan\MMD\randomchan82\random-chan82.pmx
+
+[Effect]
+Default = none
+Pmd2 = none
+
+[Effect@EyeRT]
+Owner = Acs1
+Acs1.show = false
+Pmd2 = E:\3dModels\RandomChan\MMD\randomchan82\PostAlphaEye\DrawEyeRandomchan.fx
+Pmd2[4].show = false
+Pmd2[6] = none
+Pmd2[7].show = false
+
