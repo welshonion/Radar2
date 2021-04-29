@@ -11,6 +11,7 @@
 /Radar/[Mm]emoryCaptures/
 
 /Radar/[A]ssets/Ignored/
+/Radar/[A]ssets/Ignored/MMD4Mecanim/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/Radar/[Aa]ssets/**/*.meta
